@@ -1,0 +1,557 @@
+name,protein_g,carbs_g,fat_g
+Roti,3.5,52.0,0.4
+Chapati,3.5,52.0,0.4
+Paratha,5.0,48.0,8.0
+Aloo Paratha,4.5,50.0,9.0
+Gobhi Paratha,4.8,49.0,8.5
+Paneer Paratha,8.0,46.0,10.0
+Puri,4.0,45.0,12.0
+Bhatura,6.0,44.0,14.0
+Naan,9.0,52.0,5.0
+Tandoori Roti,4.0,50.0,1.5
+Missi Roti,7.0,48.0,3.0
+Makki di Roti,3.8,55.0,2.5
+Bajra Roti,3.5,50.0,1.8
+Jowar Roti,3.2,51.0,1.5
+White Rice,2.7,28.0,0.3
+Brown Rice,2.6,23.0,0.9
+Biryani (Veg),4.0,35.0,6.0
+Biryani (Chicken),9.0,32.0,8.0
+Biryani (Mutton),11.0,30.0,10.0
+Khichdi,5.0,25.0,2.0
+Idli,2.0,22.0,0.4
+Dosa,2.5,25.0,3.5
+Masala Dosa,3.5,30.0,5.0
+Uttapam,3.0,24.0,3.0
+Upma,3.5,20.0,4.5
+Poha,2.0,24.0,3.0
+Sabudana Khichdi,1.8,35.0,4.5
+Pulao (Veg),3.5,28.0,5.0
+Matar Pulao,5.0,30.0,4.5
+Lemon Rice,2.5,26.0,4.0
+Curd Rice,4.0,20.0,2.5
+Rava Dosa,3.0,26.0,4.0
+Appam,2.5,24.0,1.0
+Pesarattu,6.0,28.0,2.0
+Vada,5.0,28.0,8.5
+Medu Vada,5.5,27.0,9.0
+Dal Tadka,7.0,18.0,4.5
+Dal Makhani,8.5,20.0,9.0
+Dal Fry,7.5,18.5,5.0
+Moong Dal,7.0,17.0,3.5
+Masoor Dal,8.0,18.5,2.5
+Chana Dal,9.0,22.0,3.0
+Toor Dal,7.5,18.0,3.5
+Urad Dal,8.5,19.0,3.0
+Rajma,9.0,22.0,1.5
+Chole,9.0,23.0,5.0
+Chole Bhature,8.0,38.0,14.0
+Pav Bhaji,4.0,28.0,8.0
+Sambar,3.0,10.0,2.5
+Rasam,1.5,8.0,1.0
+Kadhi Pakora,4.5,14.0,7.5
+Kadhi (Plain),4.0,12.0,5.5
+Aloo Gobi,2.5,14.0,5.0
+Palak Paneer,8.5,10.0,12.0
+Matar Paneer,9.0,14.0,11.0
+Shahi Paneer,10.0,12.0,15.0
+Paneer Butter Masala,10.5,13.0,16.0
+Paneer Bhurji,12.0,8.0,14.0
+Aloo Matar,3.0,16.0,5.5
+Baingan Bharta,2.5,10.0,5.0
+Bhindi Masala,2.5,9.0,6.0
+Jeera Aloo,2.0,18.0,4.5
+Tinda Sabzi,1.5,7.0,3.5
+Lauki Sabzi,1.2,6.0,3.0
+Karela Sabzi,2.0,8.0,4.0
+Methi Sabzi,4.0,8.5,4.5
+Sarson Ka Saag,4.5,9.0,5.5
+Gajar Matar,2.5,12.0,3.0
+Mix Veg Sabzi,3.0,11.0,5.0
+Vegetable Jalfrezi,3.5,12.0,6.0
+Dum Aloo,3.0,20.0,8.0
+Kofta Curry,6.0,14.0,12.0
+Chicken Curry,18.0,8.0,12.0
+Butter Chicken,17.0,9.0,14.0
+Chicken Tikka Masala,18.5,10.0,13.0
+Tandoori Chicken,25.0,5.0,8.0
+Chicken Tikka,26.0,4.0,7.5
+Chicken Kabab,24.0,5.0,8.0
+Seekh Kabab,22.0,6.0,10.0
+Chicken Korma,16.0,10.0,16.0
+Chicken Keema,20.0,6.0,14.0
+Mutton Curry,18.0,7.0,15.0
+Mutton Rogan Josh,19.0,8.0,14.0
+Mutton Keema,21.0,5.0,16.0
+Fish Curry,17.0,6.0,9.0
+Fish Fry,20.0,8.0,12.0
+Prawn Masala,18.0,7.0,8.0
+Egg Curry,11.0,8.0,12.0
+Egg Bhurji,12.0,5.0,11.0
+Egg Masala,11.5,7.0,10.5
+Boiled Egg,13.0,1.1,11.0
+Omelette,11.0,2.0,14.0
+Samosa,4.0,30.0,12.0
+Pakora (Veg),4.5,22.0,14.0
+Kachori,5.0,32.0,15.0
+Aloo Tikki,3.5,25.0,8.0
+Dabeli,5.0,35.0,7.0
+Vada Pav,6.0,40.0,10.0
+Pani Puri,2.0,28.0,5.0
+Bhel Puri,3.5,30.0,5.0
+Sev Puri,4.0,32.0,7.0
+Dahi Puri,5.0,30.0,4.0
+Chaat (Aloo),3.5,28.0,6.0
+Papdi Chaat,4.0,30.0,7.0
+Raj Kachori,7.0,38.0,10.0
+Corn Chat,3.0,25.0,4.0
+Dhokla,5.0,18.0,3.5
+Khandvi,6.5,14.0,4.5
+Thepla,5.0,30.0,6.0
+Muthia,4.5,22.0,4.0
+Handvo,7.0,25.0,5.5
+Momos (Veg),5.0,22.0,3.5
+Momos (Chicken),9.0,20.0,4.5
+Frankie (Veg),5.5,38.0,8.0
+Frankie (Chicken),10.0,36.0,9.0
+Misal Pav,8.0,35.0,7.0
+Paneer (Raw),18.0,1.2,20.0
+Curd (Dahi),3.5,4.7,4.0
+Lassi (Sweet),3.5,18.0,4.0
+Lassi (Salted),3.2,6.0,4.0
+Buttermilk (Chaas),3.0,4.5,1.5
+Raita,3.5,5.0,3.5
+Kheer,4.5,22.0,6.0
+Rabri,6.0,18.0,10.0
+Basundi,6.5,20.0,9.5
+Shrikhand,7.0,22.0,8.0
+Mango Lassi,3.0,22.0,3.5
+Milk (Full Fat),3.4,4.7,3.9
+Milk (Toned),3.5,4.8,1.5
+Milk (Skimmed),3.6,5.0,0.2
+Gulab Jamun,3.5,44.0,8.0
+Rasgulla,4.0,32.0,5.0
+Rasmalai,5.0,26.0,8.0
+Jalebi,2.0,55.0,7.0
+Ladoo (Besan),8.0,55.0,18.0
+Ladoo (Motichur),5.0,60.0,14.0
+Barfi (Milk),7.0,55.0,16.0
+Halwa (Suji),4.5,40.0,14.0
+Halwa (Gajar),4.0,28.0,12.0
+Halwa (Moong Dal),7.0,38.0,15.0
+Kulfi,4.0,25.0,8.0
+Peda,7.0,55.0,15.0
+Sandesh,8.0,30.0,10.0
+Mysore Pak,6.0,50.0,20.0
+Imarti,2.5,52.0,6.5
+Kalakand,9.0,40.0,12.0
+Chum Chum,5.0,38.0,6.0
+Aloo Sandwich,6.0,38.0,8.5
+Bread Upma,4.5,28.0,6.0
+Daliya (Porridge),4.0,20.0,1.5
+Vermicelli Upma,3.5,24.0,4.0
+Pongal,4.5,22.0,6.5
+Rava Idli,4.0,26.0,5.5
+Besan Chilla,9.0,20.0,5.0
+Moong Dal Chilla,10.0,18.0,4.5
+Chicken Breast (Boiled),31.0,0.0,3.6
+Chicken Breast (Grilled),30.0,0.0,4.0
+Egg White,11.0,0.7,0.2
+Whole Egg,13.0,1.1,11.0
+Tuna (Canned),26.0,0.0,1.0
+Salmon (Grilled),25.0,0.0,13.0
+Cottage Cheese (Low Fat),11.0,3.5,1.0
+Greek Yogurt,10.0,4.0,0.4
+Whey Protein (Scoop),24.0,3.0,2.0
+Casein Protein (Scoop),24.0,4.0,1.5
+Soy Protein (Scoop),22.0,5.0,2.5
+Oats (Rolled),17.0,66.0,7.0
+Oats (Instant),13.0,67.0,6.5
+Sweet Potato (Boiled),1.6,20.0,0.1
+Brown Bread,9.0,43.0,4.0
+Multigrain Bread,10.0,42.0,4.5
+Quinoa (Cooked),4.4,22.0,1.9
+Lentils (Boiled),9.0,20.0,0.4
+Black Beans (Boiled),8.9,23.0,0.5
+Chickpeas (Boiled),8.9,27.0,2.6
+Peanut Butter,25.0,20.0,50.0
+Almond Butter,21.0,19.0,56.0
+Almonds,21.0,22.0,49.0
+Walnuts,15.0,14.0,65.0
+Cashews,18.0,30.0,44.0
+Peanuts,26.0,16.0,49.0
+Sunflower Seeds,21.0,20.0,51.0
+Pumpkin Seeds,19.0,17.0,49.0
+Chia Seeds,17.0,42.0,31.0
+Flax Seeds,18.0,29.0,42.0
+Broccoli (Steamed),2.8,7.0,0.4
+Spinach (Raw),2.9,3.6,0.4
+Kale (Raw),4.3,8.8,0.9
+Mushroom (Cooked),3.6,5.0,0.5
+Tofu (Firm),8.0,2.0,4.5
+Edamame,11.0,10.0,5.0
+Turkey Breast,29.0,0.0,1.0
+Lean Beef (Grilled),26.0,0.0,7.0
+Shrimp (Boiled),24.0,0.0,1.7
+Cod Fish (Baked),23.0,0.0,1.0
+Tilapia (Grilled),26.0,0.0,3.0
+Low Fat Milk,3.5,5.0,1.5
+Protein Bar (Generic),20.0,30.0,8.0
+Rice Cakes,8.0,80.0,3.0
+Egg Bhurji (No Oil),13.0,3.0,10.0
+Sprouts (Moong),8.0,18.0,0.6
+Sprouts (Mixed),7.5,16.0,0.5
+Avocado,2.0,9.0,15.0
+Olive Oil,0.0,0.0,100.0
+Coconut Oil,0.0,0.0,100.0
+Ghee,0.0,0.0,99.7
+Butter,0.9,0.1,81.0
+Honey,0.3,82.0,0.0
+Banana,1.1,23.0,0.3
+Apple,0.3,14.0,0.2
+Mango,0.8,17.0,0.4
+Orange,0.9,12.0,0.1
+Watermelon,0.6,8.0,0.2
+Grapes,0.7,18.0,0.4
+Papaya,0.5,11.0,0.1
+Pineapple,0.5,13.0,0.1
+Guava,2.6,14.0,1.0
+Pomegranate,1.7,19.0,1.2
+Kiwi,1.1,15.0,0.5
+Strawberry,0.7,8.0,0.3
+Blueberry,0.7,14.0,0.3
+Chikoo (Sapodilla),0.4,20.0,1.1
+Litchi,0.8,17.0,0.4
+Pear,0.4,15.0,0.1
+Peach,0.9,10.0,0.3
+Dates,2.5,75.0,0.4
+Coconut (Fresh),3.3,15.0,33.0
+Amla (Gooseberry),0.5,10.0,0.1
+Potato (Boiled),2.0,17.0,0.1
+Carrot (Raw),0.9,10.0,0.2
+Tomato,0.9,3.9,0.2
+Onion,1.1,9.3,0.1
+Cucumber,0.7,3.6,0.1
+Cauliflower,1.9,5.0,0.3
+Cabbage,1.3,5.8,0.1
+Peas (Green),5.4,14.5,0.4
+Beans (French),1.8,7.0,0.1
+Corn (Boiled),3.3,19.0,1.5
+Beetroot,1.7,10.0,0.1
+Bell Pepper,1.0,6.0,0.3
+Pumpkin,1.0,7.0,0.1
+Pizza Margherita (1 slice),11.0,30.0,9.0
+Pizza Pepperoni (1 slice),12.0,29.0,11.0
+Pizza Farmhouse (1 slice),10.0,31.0,8.5
+Pizza Veggie (1 slice),9.0,30.0,7.5
+Pizza BBQ Chicken (1 slice),13.0,30.0,10.0
+Burger (Veg Patty),8.0,38.0,12.0
+Burger (Chicken),14.0,35.0,14.0
+Burger (Aloo Tikki),7.0,40.0,11.0
+Burger (Double Patty),22.0,38.0,22.0
+Cheese Burger,16.0,36.0,18.0
+Zinger Burger,17.0,35.0,16.0
+McAloo Tikki,7.0,39.0,10.0
+Maharaja Mac,18.0,37.0,19.0
+French Fries (Small),3.0,28.0,9.0
+French Fries (Medium),4.5,42.0,13.5
+French Fries (Large),6.0,56.0,18.0
+Peri Peri Fries,4.5,43.0,14.0
+Cheese Fries,6.0,40.0,16.0
+Hot Dog,11.0,22.0,15.0
+Sandwich (Veg),7.0,32.0,8.0
+Sandwich (Chicken),14.0,30.0,9.0
+Grilled Sandwich,9.0,28.0,10.0
+Club Sandwich,16.0,30.0,14.0
+Wrap (Veg),7.0,34.0,8.0
+Wrap (Chicken),13.0,32.0,9.0
+Pasta (Arrabbiata),6.0,30.0,5.0
+Pasta (Alfredo),9.0,32.0,14.0
+Pasta (Pesto),8.0,30.0,12.0
+Mac and Cheese,8.0,32.0,11.0
+Nachos with Cheese,5.0,35.0,15.0
+Garlic Bread,5.0,34.0,8.0
+Cheese Toast,8.0,28.0,11.0
+Fried Chicken (KFC style),20.0,15.0,16.0
+Chicken Nuggets (6pc),14.0,18.0,12.0
+Chicken Wings (Buffalo),22.0,5.0,18.0
+Onion Rings,3.5,32.0,12.0
+Coleslaw,1.5,12.0,7.0
+Hot Wings,22.0,6.0,16.0
+Shawarma (Chicken),16.0,30.0,12.0
+Shawarma (Veg),6.0,32.0,10.0
+Falafel,13.0,32.0,11.0
+Tacos (Chicken),15.0,25.0,10.0
+Tacos (Veg),7.0,26.0,8.0
+Quesadilla,12.0,28.0,13.0
+Spring Roll (Fried),5.0,28.0,10.0
+Hakka Noodles,6.0,32.0,7.0
+Fried Rice,5.0,28.0,7.0
+Manchurian (Veg),4.0,22.0,8.0
+Manchurian (Chicken),10.0,20.0,9.0
+Chilli Paneer,12.0,18.0,12.0
+Chilli Chicken,18.0,16.0,11.0
+Schezwan Noodles,6.5,33.0,8.0
+Coca Cola (300ml),0.0,32.0,0.0
+Pepsi (300ml),0.0,32.0,0.0
+Sprite (300ml),0.0,30.0,0.0
+Limca (300ml),0.0,28.0,0.0
+Maaza (200ml),0.2,28.0,0.2
+Frooti (200ml),0.2,26.0,0.1
+Orange Juice (200ml),0.7,26.0,0.4
+Sugarcane Juice (200ml),0.2,28.0,0.3
+Tender Coconut Water (200ml),0.7,9.0,0.2
+Lemonade (200ml),0.0,18.0,0.0
+Tea (With Milk & Sugar),0.8,8.0,1.5
+Black Tea,0.3,0.5,0.0
+Green Tea,0.2,0.5,0.0
+Black Coffee,0.3,0.0,0.0
+Cappuccino,3.0,8.0,5.0
+Cold Coffee,4.0,20.0,6.0
+Milkshake (Chocolate),4.5,28.0,6.0
+Milkshake (Strawberry),3.5,25.0,5.0
+Milkshake (Mango),3.5,27.0,5.5
+Protein Shake (Water),24.0,5.0,2.0
+Protein Shake (Milk),28.0,10.0,4.5
+BCAA Drink,5.0,2.0,0.0
+Electrolyte Drink,0.0,14.0,0.0
+White Bread (1 slice),3.5,15.0,1.0
+Brown Bread (1 slice),4.0,13.0,1.5
+Pav (1 piece),3.0,18.0,2.0
+Bun (Burger),6.0,30.0,4.0
+Biscuits (Marie),5.0,75.0,10.0
+Biscuits (Glucose),6.0,78.0,9.5
+Biscuits (Cream),5.0,70.0,18.0
+Rusk,9.0,72.0,10.0
+Cake (Chocolate),5.0,55.0,15.0
+Cake (Vanilla),4.5,52.0,14.0
+Pastry (Cream),4.0,45.0,16.0
+Croissant,8.0,45.0,21.0
+Doughnut,5.0,44.0,18.0
+Waffle,7.0,48.0,14.0
+Pancake,6.0,40.0,10.0
+Chocolate Bar,5.0,58.0,28.0
+Dark Chocolate,8.0,50.0,30.0
+Maggi Noodles (1 pack),10.0,50.0,14.0
+Chips (Lays),6.5,53.0,32.0
+Popcorn (Salted),9.0,64.0,14.0
+Popcorn (Butter),7.0,60.0,20.0
+Cornflakes,7.0,84.0,1.5
+Muesli,9.0,65.0,7.0
+Granola,8.0,60.0,12.0
+Jeera Rice,3.0,30.0,4.0
+Coconut Rice,3.0,32.0,6.0
+Tomato Rice,3.0,28.0,4.5
+Tamarind Rice (Puliyodaare),3.5,30.0,6.0
+Bisi Bele Bath,6.0,25.0,5.5
+Dosa (Egg),8.0,25.0,8.0
+Idiyappam,2.0,22.0,0.5
+Puttu,3.0,24.0,1.5
+Parotta (Kerala),5.0,45.0,10.0
+Rava Upma,3.5,20.0,5.0
+Tomato Soup,1.5,9.0,2.0
+Sweet Corn Soup,2.5,12.0,1.5
+Veg Clear Soup,1.0,6.0,0.5
+Chicken Soup,6.0,4.0,2.5
+Lentil Soup,6.0,12.0,1.5
+Mushroom Soup,3.0,8.0,4.5
+Broccoli Soup,3.0,7.0,3.5
+Dal Soup,6.5,14.0,2.0
+Papad (Roasted),22.0,50.0,1.5
+Papad (Fried),22.0,45.0,12.0
+Achaar (Mango Pickle),1.0,10.0,10.0
+Chutney (Coconut),2.0,8.0,14.0
+Chutney (Mint),2.0,6.0,1.0
+Chutney (Tamarind),0.5,18.0,0.3
+Kaju Katli,12.0,50.0,22.0
+Soan Papdi,7.0,58.0,14.0
+Chikki (Peanut),13.0,45.0,18.0
+Murmura (Puffed Rice),7.0,80.0,1.0
+Sev (Fried),16.0,50.0,22.0
+Namkeen Mix,10.0,48.0,20.0
+Mathri,6.0,50.0,20.0
+Shakarpara,5.0,60.0,16.0
+Chakli,8.0,52.0,18.0
+Khakhra,12.0,55.0,8.0
+Fafda,10.0,46.0,16.0
+Ganthiya,11.0,44.0,18.0
+Masala Peanuts,20.0,22.0,30.0
+Roasted Chana,22.0,38.0,5.0
+Makhana (Fox Nuts),9.0,76.0,0.1
+Poha (Flattened Rice),2.5,76.0,1.5
+Sabudana (Tapioca),0.2,85.0,0.0
+Pesarattu Upma,8.0,28.0,3.5
+Gongura Mutton,18.0,5.0,14.0
+Hyderabadi Biryani,12.0,33.0,10.0
+Chettinad Chicken,22.0,7.0,14.0
+Kerala Fish Curry,18.0,8.0,12.0
+Appam with Stew,4.5,28.0,5.5
+Karimeen Pollichathu,22.0,3.0,14.0
+Malabari Paratha,6.0,48.0,12.0
+Avial,3.0,14.0,8.0
+Thoran (Cabbage),2.5,8.0,5.5
+Erissery,5.0,18.0,7.0
+Olan,2.0,10.0,5.0
+Kootu,5.0,16.0,6.0
+Pongal (Sweet),5.0,40.0,8.0
+Sundal (Chana),9.0,22.0,4.0
+Murukku,8.0,52.0,16.0
+Ribbon Pakoda,7.0,54.0,18.0
+Thattai,6.0,55.0,15.0
+Kodubale,7.0,50.0,16.0
+Akki Roti,3.5,30.0,4.0
+Ragi Mudde,3.0,28.0,0.5
+Ragi Roti,3.5,32.0,2.5
+Jolada Rotti,3.2,52.0,2.0
+Ennegayi,4.0,12.0,8.0
+Saaru (Rasam),1.5,7.0,1.0
+Majjige Huli,4.0,10.0,4.5
+Puliyogare,3.5,30.0,7.0
+Vangi Bath,3.5,28.0,6.0
+Dahi Vada,7.0,22.0,6.0
+Ragda Pattice,6.0,28.0,7.5
+Batata Vada,4.5,26.0,9.0
+Sabudana Vada,3.5,32.0,10.0
+Kolhapuri Misal,10.0,30.0,8.0
+Thalipeeth,7.0,35.0,5.5
+Puran Poli,7.0,48.0,8.5
+Modak (Fried),5.0,42.0,10.0
+Modak (Steamed),4.0,40.0,5.0
+Karanji,6.0,44.0,14.0
+Shankarpali,5.0,58.0,16.0
+Chakali (Baked),7.0,50.0,10.0
+Litti Chokha,9.0,42.0,10.0
+Sattu Drink,10.0,30.0,2.5
+Thekua,7.0,55.0,14.0
+Malpua,5.0,48.0,12.0
+Bal Mithai,8.0,52.0,16.0
+Singodi,4.0,36.0,8.0
+Aloo Ke Gutke,2.5,20.0,6.0
+Bhang Pakora,5.0,24.0,12.0
+Chha Gosht,20.0,6.0,16.0
+Siddu,8.0,44.0,6.0
+Kullu Trout,20.0,0.0,6.0
+Dal Baati Churma,12.0,52.0,18.0
+Gatte Ki Sabzi,9.0,20.0,10.0
+Ker Sangri,4.0,14.0,6.0
+Pyaaz Kachori,6.0,34.0,16.0
+Ghewar,4.0,55.0,18.0
+Feeni,5.0,60.0,15.0
+Mawa Kachori,8.0,48.0,20.0
+Dilkushar,6.0,52.0,14.0
+Shahi Tukda,7.0,45.0,14.0
+Double Ka Meetha,7.5,47.0,15.0
+Qubani Ka Meetha,3.0,38.0,5.0
+Lukhmi,7.0,30.0,12.0
+Boti Kabab,22.0,4.0,10.0
+Biryani (Prawn),12.0,30.0,9.0
+Haleem,15.0,18.0,14.0
+Nihari,18.0,10.0,18.0
+Paya Soup,14.0,4.0,12.0
+Nargisi Kofta,12.0,12.0,16.0
+Gosht Korma,18.0,9.0,18.0
+Malai Kofta,9.0,16.0,18.0
+Egg White Omelette,14.0,1.0,0.5
+Chicken Salad,25.0,5.0,6.0
+Tuna Salad,22.0,4.0,4.0
+Protein Pancake,18.0,28.0,5.0
+Overnight Oats,10.0,35.0,6.0
+Chia Pudding,6.0,20.0,8.0
+Smoothie (Banana Protein),22.0,32.0,4.0
+Smoothie (Berry),5.0,25.0,1.5
+Egg Muffin (3pc),18.0,4.0,12.0
+Turkey Sandwich,22.0,30.0,6.0
+Tuna Wrap,20.0,28.0,5.0
+Chicken Rice Bowl,28.0,35.0,5.0
+Beef Stir Fry,24.0,14.0,9.0
+Salmon Salad,22.0,6.0,12.0
+Cottage Cheese Bowl,14.0,6.0,2.0
+Lentil Salad,9.0,20.0,3.5
+Black Bean Bowl,12.0,30.0,4.0
+Quinoa Salad,7.0,24.0,6.0
+Edamame Salad,10.0,12.0,4.0
+Tofu Scramble,10.0,5.0,6.0
+Baked Potato,4.0,25.0,0.2
+Sweet Potato Fries (Baked),2.0,22.0,3.5
+Rice Protein Scoop,22.0,6.0,2.5
+Pea Protein Scoop,21.0,5.0,3.0
+Mass Gainer (Scoop),12.0,65.0,5.0
+Pre-Workout Drink,2.0,10.0,0.0
+Creatine (5g),0.0,0.0,0.0
+Amino Acid Tablet,3.0,0.0,0.0
+Hemp Seeds,32.0,9.0,49.0
+Sesame Seeds,18.0,23.0,50.0
+Pistachio,20.0,28.0,45.0
+Brazil Nuts,14.0,12.0,66.0
+Macadamia Nuts,8.0,14.0,76.0
+Pecans,9.0,14.0,72.0
+Dominos Pasta (Baked),9.0,32.0,10.0
+Pizza Hut Stuffed Crust,13.0,35.0,13.0
+Subway 6inch Veg,9.0,38.0,5.0
+Subway 6inch Chicken,17.0,36.0,6.0
+McSpicy Chicken,20.0,38.0,18.0
+KFC Krushers,4.0,40.0,5.0
+McFlurry,4.5,45.0,7.0
+Ice Cream Cone (Soft Serve),3.0,22.0,6.0
+Ice Cream (Scoop),3.5,28.0,8.0
+Brownie,4.0,52.0,18.0
+Cheesecake (Slice),6.0,36.0,18.0
+Tiramisu,5.0,32.0,14.0
+Chicken Shawarma Roll,18.0,34.0,12.0
+Beef Taco,14.0,22.0,10.0
+Paneer Kathi Roll,12.0,38.0,12.0
+Egg Kathi Roll,10.0,36.0,10.0
+Chicken Kathi Roll,18.0,36.0,11.0
+Chole Kulcha,9.0,42.0,8.0
+Aloo Kulcha,6.0,44.0,9.0
+Bread Pakora,6.0,30.0,12.0
+Egg Roll (Street Style),11.0,34.0,10.0
+Egg Frankie,10.0,36.0,10.0
+Jhal Muri,3.0,28.0,4.0
+Ghugni (Kolkata),8.0,22.0,4.5
+Puchka (Kolkata),2.0,27.0,4.5
+Churmur,4.0,30.0,5.0
+Masala Corn (Roasted),3.5,22.0,3.0
+Lemon Corn,3.5,22.0,3.5
+Chana Jor Garam,12.0,40.0,5.0
+Kaala Chana Chaat,9.0,25.0,3.5
+Sukha Bhel,3.0,28.0,4.5
+Dahi Bhalla,7.0,24.0,5.5
+Aloo Chaat (Street),3.5,27.0,6.0
+Matar Chaat,6.0,22.0,3.0
+Chana Chaat,9.0,24.0,3.5
+Fruit Chaat,1.5,20.0,0.5
+Bombay Sandwich,7.0,36.0,9.0
+Mumbai Masala Toast,6.5,34.0,10.0
+Masala Toast,6.0,32.0,9.5
+Butter Toast,4.0,28.0,8.0
+Egg Puff,8.0,28.0,12.0
+Veg Puff,5.0,30.0,11.0
+Chicken Puff,10.0,28.0,12.0
+Samosa Chaat,5.5,34.0,10.0
+Tikki Chaat,4.5,30.0,8.0
+Dahi Tikki,5.5,28.0,6.5
+Anda Bhurji Pav,13.0,32.0,12.0
+Keema Pav,16.0,30.0,14.0
+Bun Maska,5.0,32.0,10.0
+Irani Chai,2.0,12.0,4.5
+Cutting Chai,1.0,10.0,2.5
+Masala Chai,1.5,12.0,3.0
+Kulfi Falooda,5.0,45.0,10.0
+Falooda,4.0,40.0,8.0
+Ice Gola,0.0,22.0,0.0
+Roasted Corn (Plain),3.3,19.0,1.5
+Chilli Garlic Noodles,6.0,34.0,8.5
+Manchow Soup,4.0,12.0,3.5
+Veg Manchow Soup,3.0,10.0,2.5
+Chicken Manchow Soup,6.0,10.0,3.0
+Paneer Tikka (Street),14.0,8.0,10.0
+Seekh Kabab Roll,18.0,34.0,11.0
+Egg Bhurji Pav,12.0,30.0,11.0
+Misal (Without Pav),8.0,22.0,6.0
+Tawa Pulao,4.5,30.0,6.0
+Bhaji (Without Pav),3.5,18.0,7.0
+Cheese Sandwich,10.0,30.0,12.0
+Mushroom Tikka,6.0,8.0,7.0
+Corn Tikki,3.5,26.0,7.0
+Aloo Tikki Chaat,4.5,28.0,7.5
